@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Profile from "./pages/Profile";
-import View from "./pages/View";
+import View from "./pages/view";
 import PageInitial from "./pages/PageInitial";
 
 export default function App() {
